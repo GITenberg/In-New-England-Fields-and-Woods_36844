@@ -1,0 +1,32 @@
+_repo: In-New-England-Fields-and-Woods_36844
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36844-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Robinson, Rowland Evans
+    alias: Robinson, Rowland E. (Rowland Evans)
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '37446'
+    url: http://www.gutenberg.org/2009/agents/37446
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2011-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36844'
+  lccn: 09002653
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Outdoor books'
+- !lcc 'QH'
+- !lcsh 'Natural history -- New England'
+title: In New England Fields and Woods
+url: http://www.gutenberg.org/ebooks/36844
