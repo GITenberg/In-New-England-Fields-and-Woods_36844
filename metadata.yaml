@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37446'
     url: http://www.gutenberg.org/2009/agents/37446
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36844#In-New-England-Fields-and-Woods
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
